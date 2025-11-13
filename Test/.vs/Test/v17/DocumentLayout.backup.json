@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\Test\\",
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\-Minimum-value-method\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B3DC963-CD06-4F36-8AE7-ABAD5E137C0E}|\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8B3DC963-CD06-4F36-8AE7-ABAD5E137C0E}|\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\-Minimum-value-method\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B3DC963-CD06-4F36-8AE7-ABAD5E137C0E}|\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.vcxproj|solutionrelative:\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u0442\u0435\u0441\u0442.cpp",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\-Minimum-value-method\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
               "RelativeDocumentMoniker": "\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430 2 \u043A\u0443\u0440\u0441\\\u0418\u0421 \u041E\u041F\\\u041B\u0430\u0431\u04303\\\u0442\u0435\u0441\u0442\\-Minimum-value-method\\Test\\\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
               "RelativeToolTip": "\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.cpp",
               "ViewState": "AgIAAJwAAAAAAAAAAAAYwLEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
